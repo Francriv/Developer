@@ -1,0 +1,14 @@
+.contact-info {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.9m;
+    
+  }
+  .form-control {
+    margin: 5px 0;
+  }
+  
+  form textarea {
+    width: 20em;
+  }
